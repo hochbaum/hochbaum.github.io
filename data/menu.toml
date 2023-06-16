@@ -2,7 +2,7 @@
 title = "social"
 
     [[entries.entries]]
-    title = "<a href=\"http://localhost:1313/about\">About me</a>"
+    title = "<a href=\"/about\">About me</a>"
 
     [[entries.entries]]
     title = "<a href=\"mailto:linus@hochbaum.dev\">E-mail</a>"
