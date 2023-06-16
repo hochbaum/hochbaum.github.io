@@ -1,0 +1,17 @@
+[[entries]]
+title = "social"
+
+    [[entries.entries]]
+    title = "<a href=\"http://localhost:1313/about\">About me</a>"
+
+    [[entries.entries]]
+    title = "<a href=\"mailto:linus@hochbaum.dev\">E-mail</a>"
+    
+    [[entries.entries]]
+    title = "<a href=\"https://github.com/hochbaum\">GitHub</a>"
+
+    [[entries.entries]]
+    title = "<a href=\"https://www.reddit.com/user/MagicNumber1337\">u/MagicNumber1337</a>"
+
+    [[entries.entries]]
+    title = "Discord: ossi#6978"
