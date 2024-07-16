@@ -4,36 +4,25 @@ date: 2023-06-15T21:10:54+02:00
 draft: false
 ---
 
-I am Linus, a 23-years-old computer scientist. Over the last few years I have been specializing in
-devops, security and reverse engineering. I am currently doing my vocational training at bridgefield GmbH, which
-includes a lot of devops and practical security as one of our system administrators.
+I am Linus, a 24-years-old devops engineer. Over the last decade, I have learned a lot about kernels, devops and
+reverse engineering. My first program dates back to 2011 :)
 
-Although my vocational training is still ongoing, I have been programming and researching for at least 10 years.
-This includes game and web development, embedded programming and even OS/kernel development.
+Currently, I am working as a software and devops engineer at bridgefield GmbH in Germany. Containers,
+pipelines, Git and Linux are my bread and butter skills which I use everyday.
 
 ---
 
-As a valve to break down stress, I am husbanding various inverts at home. Most of them being tarantulas.
-A lot of love and time goes into this, as the count is climbing steadily:
-- Tlitocatl albopilosum
-- Harpactira pulchripes
-- Brachypelma boehmei
-- Acanthoscurria geniculata
-- Theraphosa blondi
-- Psalmopoeus irminia
-- Poecilotheria regalis
-- Poecilotheria sp. "Lowland"
-- Poecilotheria rufilata
-- Grammostola pulchra
-- Brachypelma albiceps
-- Pterinopelma sazimai
-- Chromatopelma cyaneopubescens
-- Heterometrus (an asian forest scorpion)
-- Hierodula membranacea (a large mantis species from India)
+Terraristics are my valve to break down stress. I am husbanding various tarantulas and a ball python.
+My expertise lies in my favourite tarantula family - the Poecilotheriinae; which I am also currently breeding
+the hanumavilasumica species of.
 
-Images will be added soon :)
+![](/poecilotheria-smithi-chonker.jpg)
+(My giant Poecilotheria smithi compared to my hand)
+
+---
 
 Also, some things I like:
+- My girlfriend
 - Paulaner Spezi
 - Lemons and limes
 - Thunderstorms
