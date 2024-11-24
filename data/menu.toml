@@ -2,19 +2,24 @@
 title = "social"
 
     [[entries.entries]]
-    title = "<a href=\"/about\">About me</a>"
+    title = "about me"
+    url = "/about"
 
     [[entries.entries]]
-    title = "<a href=\"mailto:linus@hochbaum.dev\">E-mail</a>"
-    
-    [[entries.entries]]
-    title = "<a href=\"https://github.com/hochbaum\">GitHub</a>"
+    title = "e-mail: linus@hochbaum.dev"
+    url = "mailto:linus@hochbaum.dev"
 
     [[entries.entries]]
-    title = "<a href=\"https://www.reddit.com/user/MagicNumber1337\">u/MagicNumber1337</a>"
+    title = "github"
+    url = "https://github.com/hochbaum"
 
     [[entries.entries]]
-    title = "Discord: magicnumber1337"
+    title = "reddit: u/MagicNumber1337"
+    url = "https://www.reddit.com/user/MagicNumber1337"
 
     [[entries.entries]]
-    title = "<a href=\"https://www.linkedin.com/in/linus-hochbaum-968388307\">Linkedin</a>"
+    title = "discord: magicnumber1337"
+
+    [[entries.entries]]
+    title = "linkedin"
+    url = "https://www.linkedin.com/in/linus-hochbaum"
