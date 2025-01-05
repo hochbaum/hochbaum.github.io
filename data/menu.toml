@@ -6,16 +6,12 @@ title = "social"
     url = "/about"
 
     [[entries.entries]]
-    title = "e-mail: linus@hochbaum.dev"
-    url = "mailto:linus@hochbaum.dev"
+    title = "e-mail: msg@linu.sh"
+    url = "mailto:msg@linu.sh"
 
     [[entries.entries]]
     title = "github"
     url = "https://github.com/hochbaum"
-
-    [[entries.entries]]
-    title = "reddit: u/MagicNumber1337"
-    url = "https://www.reddit.com/user/MagicNumber1337"
 
     [[entries.entries]]
     title = "discord: magicnumber1337"
