@@ -2,3 +2,6 @@ baseURL = "https://www.hochbaum.dev/"
 languageCode = "en-us"
 title = "Linus Hochbaum"
 theme = 'nostyleplease'
+
+[markup.goldmark.renderer]
+unsafe= true
